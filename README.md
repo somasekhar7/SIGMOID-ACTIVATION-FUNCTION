@@ -91,7 +91,7 @@ if __name__=="__main__":
            
 ```
 ## Output:
-![Screenshot (1)](https://user-images.githubusercontent.com/78737336/169642562-bdb25216-b658-482d-b031-43710529fdff.png)
+![Screenshot (41)](https://user-images.githubusercontent.com/102689666/169655836-26545318-add6-45c7-906d-32f37565c388.png))
 
 
 
