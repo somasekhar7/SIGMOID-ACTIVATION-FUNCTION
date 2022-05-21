@@ -89,8 +89,7 @@ if __name__=="__main__":
     print(neuron.think(np.array([user_input_one, user_input_two, user_input_three])))
     print("Wow, we did it!")
            
-
-
+```
 ## Output:
 ![Screenshot (1)](https://user-images.githubusercontent.com/78737336/169642562-bdb25216-b658-482d-b031-43710529fdff.png)
 
